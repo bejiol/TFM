@@ -1,0 +1,13 @@
+{	"lang" : "spanish",
+	"tweets_ventana" : 10000,
+	"muestra_ventana": 3000,
+	"num_muestra_tema" : 5,
+	"min_tweets_similares": 4,
+	"umbral_inicial" : 0.8,
+	"filtrar_unitarios": 500,
+	"umbral_restantes" : 0.7,
+	"tweets_nucleo": 5,
+	"porcentaje_fusion_interna": 0.5, 
+	"umbral_fusion_interna": 0.7,
+	"umbral_fusion_externa": 0.8
+}
