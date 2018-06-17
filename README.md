@@ -1,6 +1,6 @@
 # TFM
 
-En este repositorio se encuentra alojado el código del Trabajo de Fin de Máster titulado "Detección offline de subtemas en Twitter durante eventos", realizado en el curso 2017/2018. Ha sido realizado para el Máster en Investigación en Informática de la Facultad de Informática de la Universidad Complutense de Madrid.
+En este repositorio se encuentra alojado el código del Trabajo de Fin de Máster titulado "Detección offline de subtemas en Twitter durante eventos", realizado en el curso 2017/2018. Ha sido llevado a cabo para el Máster en Investigación en Informática, de la Facultad de Informática de la Universidad Complutense de Madrid.
 
 ### Alumna:
 * Beatriz Jiménez del Olmo
